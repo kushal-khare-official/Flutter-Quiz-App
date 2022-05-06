@@ -20,8 +20,8 @@ class _MyAppState extends State<MyApp> {
       "answers": [
         {"text": "Thanos", "value": 0},
         {"text": "Tony", "value": 1},
-        {"text": "Lody", "value": 0},
-        {"text": "Chutiya", "value": 0},
+        {"text": "Loki", "value": 0},
+        {"text": "Pepper Pots", "value": 0},
       ],
     },
     {
@@ -47,8 +47,8 @@ class _MyAppState extends State<MyApp> {
       "answers": [
         {"text": "Don't know", "value": 0},
         {"text": "No reason", "value": 0},
-        {"text": "Even God regrets it", "value": 0},
-        {"text": "Why the fuck should I care", "value": 1},
+        {"text": "Even God are asking that", "value": 0},
+        {"text": "Why should I care", "value": 1},
       ],
     },
   ];
